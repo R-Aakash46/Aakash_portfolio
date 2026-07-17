@@ -1,0 +1,6 @@
+{
+  "name": "Professional Developer Portfolio",
+  "description": "A sleek, professional full-stack portfolio for Vimal Kumar featuring rich interactive sections and an AI-powered resume parsing and customization engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

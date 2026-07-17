@@ -129,9 +129,9 @@ export const defaultPortfolioData: PortfolioData = {
   ],
   education: [
     {
-      degree: "Computer Science Undergraduate (B.E. CSE)",
-      school: "Computer Science & Engineering Student",
-      period: "2022 - 2026",
+      degree: "Computer Science Undergraduate (B.E. CSD)",
+      school: "Computer Science & Design Student",
+      period: "2023 - 2027",
       description: "Focusing on Human-Computer Interaction, Information Systems, and Frontend Responsive UX."
     }
   ],
